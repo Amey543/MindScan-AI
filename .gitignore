@@ -1,0 +1,4 @@
+backend/my_model.keras 
+venv/ 
+Brain_MRI_images/ 
+.ipynb_checkpoints/ 
